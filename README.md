@@ -1,7 +1,7 @@
 # 💫 About Me : 
 🔭 I’m currently working on transitioning from a focus on data science and machine learning into a focus on frontend development.
 <br/>
-🌱 I’m currently learning Javascript and React.
+🌱 I’m currently learning Javascript.
 <br/>
 👯 I’m looking to collaborate on web development projects.
 <br/>
