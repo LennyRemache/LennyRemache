@@ -1,11 +1,10 @@
 # 💫 About Me : 
 🔭 I’m currently working on transitioning from a focus on data science and machine learning into a focus on frontend development.
 <br/>
-🌱 I’m currently learning Javascript and React.js
+🌱 I’m currently learning React.js
 <br/>
 👯 I’m looking to collaborate on web development projects.
 <br/>
-🤔 I’m looking for help with transitioning into web development.
 
 # 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lennyremache/) 
