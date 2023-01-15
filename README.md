@@ -1,9 +1,9 @@
 # 💫 About Me : 
-🔭 I’m currently working on transitioning from a focus on data science and machine learning into a focus on frontend development.
+🔭 I’m currently learning backend development in order to enhance my skills as a Software Engineer. No longer just focusing on front end programming.
 <br/>
-🌱 I’m currently learning React.js
+🌱 I’m currently learning the MERN stack. So MongoDB, ExpressJS, React, and NodeJS
 <br/>
-👯 I’m looking to collaborate on web development projects.
+👯 I’m looking to collaborate on full stack applications.
 <br/>
 
 # 🌐 Socials :
