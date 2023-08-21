@@ -1,7 +1,7 @@
 # 💫 About Me : 
 🔭 I’m currently learning backend development in order to enhance my skills as a Software Engineer. No longer just focusing on front end programming.
 <br/>
-🌱 I’m currently learning the MERN stack. So MongoDB, ExpressJS, React, and NodeJS
+🌱 I’m currently learning the MERN stack. MongoDB, ExpressJS, React, and NodeJS
 <br/>
 👯 I’m looking to collaborate on full stack applications.
 <br/>
